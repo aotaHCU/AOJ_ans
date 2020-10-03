@@ -10,7 +10,7 @@ int main(void){
     char s[2];
     int count;
 
-    //持ってるフラグ初期化
+    //持ってるフラグの初期化
     for(int i=0;i<4;i++){
         for(int j=0;j<13;j++){
             cardflag[i][j]=0;
